@@ -1,7 +1,7 @@
 ---
 # Good Design
 
-There are a couple possible sets of people that will likely look at the cs major website. The first set is prospective students and possible majors, and the page welcomes them nicely. The design is simple, using mostly essentials to display the relevant information. The search and menu bars in the top right are distinct enough to find, but aren’t too obvious as to detract from the rest of the page. 
+The majority of the typical users of this website can be split up into two groups, students and prospective students. The first set is prospective students and possible majors, and the page welcomes them nicely. The design is simple, using mostly essentials to display the relevant information. The search and menu bars in the top right are distinct enough to find, but aren’t too obvious as to detract from the rest of the page. 
 ![good](http://cla1.github.io/img/csci-page-top.png)
 ![good](http://cla1.github.io/img/csci-page-middle.png)
 
