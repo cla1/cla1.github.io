@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Good Design
-subtitle: Example of a better web page
+**Good Design**
 
 ![good](http://cla1.github.io/img/csci-web-page.png)
 
@@ -13,6 +11,5 @@ subtitle: Example of a better web page
 
 
 
-**Good Design**
 
-What could be improved?
+
