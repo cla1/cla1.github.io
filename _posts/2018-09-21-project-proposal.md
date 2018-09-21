@@ -13,10 +13,7 @@ Figure 1: Fortune Tellers Use Cold-Reading to Know What Your Thinking
 
 Source: https://travel67.files.wordpress.com/2013/05/6459726-3-se-470-new.jpg
 
-
-
-
-
+<br>
 
 
 <img src="http://cla1.github.io/img/what-you-dont-say.png"  width="513" height="447">  
