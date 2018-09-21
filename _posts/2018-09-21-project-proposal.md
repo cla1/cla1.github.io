@@ -9,7 +9,8 @@ It’s not magic! Humans have been using non-verbal communication in their bodie
 
 <img src="http://cla1.github.io/img/mind-reading.png"  width="329" height="404">  
 Figure 1: Fortune Tellers Use Cold-Reading to Know What Your Thinking  
-Source: https://travel67.files.wordpress.com/2013/05/6459726-3-se-470-new.jpg     
+Source: https://travel67.files.wordpress.com/2013/05/6459726-3-se-470-new.jpg
+
 <br/>
 
 <img src="http://cla1.github.io/img/what-you-dont-say.png"  width="513" height="447">  
