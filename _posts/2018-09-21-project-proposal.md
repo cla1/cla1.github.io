@@ -1,5 +1,5 @@
 ---
-**# An Algorithm to Read Your Mind**
+# An Algorithm to Read Your Mind
 
 ### Problem
 Museum curators have a very hard job. They not only have to predict the pieces of art they think most people will find interesting, but they have to set up the museum in a way where each visitor has the best experience possible. This can be very hard to do as people have extremely different preferences. The curator can’t possible know which pieces most people are actually going to find the most interesting. However, this is not the only problem at museums. A lot of people walk into a museum and don’t have a particular goal. They wander around and may see pieces they like. They will probably spend a longer time analyzing pieces as they are intrigued by their shapes, colors, histories, etc. However, what if the person wants to look at more pieces similar to this one? The problem lies in that it’s hard to have a custom experience at a museum. If you find pieces you like, wouldn’t it be cool if you could be guided to more pieces that might interest you? And what if this could be done without you explicitly communicating these preferences? **_Imagine how exciting it would be if the museum exhibit could read your mind_**? 
