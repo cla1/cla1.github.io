@@ -16,7 +16,6 @@ Source: https://travel67.files.wordpress.com/2013/05/6459726-3-se-470-new.jpg
 <br>
 
 <img src="http://cla1.github.io/img/what-you-dont-say.png"  width="513" height="447">  
-<br>
   Figure 2: Non-Verbal Communication Tells What You Are Thinking  
 <br>
   Source: http://www.communicatecharisma.com/ccm-content/uploads/2014/01/dont-say.jpg 
