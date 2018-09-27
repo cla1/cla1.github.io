@@ -1,3 +1,5 @@
+##Redirecting to https://londonmeanswild.github.io/CS376/
+
 <!DOCTYPE html>
 <meta charset="utf-8">
 <title> Redirecting to https://londonmeanswild.github.io/CS376/ </title>
