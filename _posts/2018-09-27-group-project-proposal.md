@@ -1,1 +1,5 @@
-<a>https://sites.google.com/williams.edu/csci376-2018/project/looking-to-understand</a>
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://londonmeanswild.github.io/CS376/</title>
+<meta http-equiv="refresh" content="0; URL=https://londonmeanswild.github.io/CS376/">
+<link rel="canonical" href="https://londonmeanswild.github.io/CS376/">
