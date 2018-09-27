@@ -1,4 +1,4 @@
-##Redirecting to https://londonmeanswild.github.io/CS376/
+## Redirecting to https://londonmeanswild.github.io/CS376/
 
 <!DOCTYPE html>
 <meta charset="utf-8">
