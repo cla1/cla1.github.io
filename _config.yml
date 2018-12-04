@@ -22,14 +22,17 @@ description: A virtual proof that name is awesome!
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
+#navbar-links:
+  #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
  # Author's home: "http://deanattali.com"
  
+ # List of links in the navigation bar
+navbar-links:
+  Design Manifesto: "aboutme"
  #navbar-links:
   # Design Manifesto: "https://londonmeanswild.github.io/museum-experience/"
  #  heART: "https://londonmeanswild.github.io/museum-experience/"
