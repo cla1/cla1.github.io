@@ -32,7 +32,7 @@ description: A virtual proof that name is awesome!
  
  # List of links in the navigation bar
 navbar-links:
-  Design Manifesto: "aboutme"
+  Design Manifesto: "https://londonmeanswild.github.io/museum-experience"
  #navbar-links:
   # Design Manifesto: "https://londonmeanswild.github.io/museum-experience/"
  #  heART: "https://londonmeanswild.github.io/museum-experience/"
