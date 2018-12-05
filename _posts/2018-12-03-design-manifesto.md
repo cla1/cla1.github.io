@@ -56,12 +56,19 @@ Through the many iterations of our project prototype, we've realized that someti
 ![final prototype overview](/cla1.github.io/img/final-overview.JPG){:height="100%" width="100%"}
 
 
+# Accessibility & Ethics
 
 
+### 6. Keep in Mind All Who May Use Your Design
+
+When trying to create something useful, usually the designers have a target audience in mind. However, technology has become such an integral part of our lives, that it is important to consider your design's accessibility to all, including those with disabilities. In Guidelines for Accessible and Usable Websites, Theofanos  and Redish discuss some reasons why accessibility is so important. First, it's good business, especially since disabilities affect more people than you might think. Second, Theofanos  and Redish found that people with disabilities spend on average 20 hours longer online than non-disabled users. This means the Web plays an extremely important role in the lives of disabled individuals. For an in-class activity, we got into pairs where one person simulated a screen-reader and the other tried to navigate a webpage using only the information provided by that "screen-reader." Being the navigator was actually an extremely difficult task, which illustrated to us just how difficult it might be for disabled individuals to use technology. Therefore, it is important for us to try to make their lives easier by providing a more accessible product. Finally, the last reason you should make your design accessible is because it is morally right. This topic of morals then brings me to our last important learning experience.
 
 
+### 7. Don't Lose Sight of What You Stand For
+
+As technology becomes more and more prevalent in our everyday lives, consideration of ethical consequences becomes increasingly important. During the early phases of a design, a product, or even a company, it can seem easy to adhere by certain ethics. However, as companies grow and start to become more concerned about profit, it becomes much harder to resist the temptations of taking shortcuts, leading to violations in ethical codes in the process. For example, consider Uber's Greyballing tactic. After creating a ride-sharing service, Uber skyrocketed as a company. However, some regions banned Uber in an attempt to protect taxi companies from this cheap service. How did Uber respond? Did they just adhere to this ban? Did they try to negotiate the ban with the authorities? No, instead Uber not only decided to ignore the authorities' bans, but they created a fake version of the app in an attempt to evade these authorities. This illustrates how temptations for shortcuts and an emphasis on profit can lead to ethical problems. However, this is not the extent of the problem. As AI and machine learning algorithms develop, computers will be able to do more complex tasks. However, both morals and liability can become ambiguous. Uber's self-driving car accident illustrates this situation as it's hard to determine whether the car is liable, or the backup driver is liable. Therefore, this supports the idea that there needs to be a greater emphasis on ethics and the teaching of moral decision-making integrated in the future of computer science. 
 
 
+# Conclusion
 
-
-
+These are the 7 most important lessons I learned through our design process. It was a great experience working with both Kenneth and Landon to create heART, and I believe we truly designed something useful. Regardless, we definitely had our fair share of prototype refinement throughout the semester, giving us many opportunities to practically experience the things we've learned in class. Amazingly, many of the experiences I've listed here, like teamwork, are directly applicable to areas outside of HCI and even computer science itself. Overall, this was a fantastic learning experience and I hope my discoveries have convinced you of importance of HCI.
