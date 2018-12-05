@@ -48,7 +48,12 @@ Even though there were many problems with our initial design and we had to make 
 
 Through the many iterations of our project prototype, we've realized that sometimes users do not want a lot of information. This is summarized by the simple and natural dialog heuristic where the goal is to present exactly the information the user needs at exactly the time and place it is needed. After conducting usability tests, we realized that an excess of information actually confuses the user, making it harder to find the information they are looking for. The images below show the transition from our initial paper prototype to our final, showing how we had to delete screens in order to make information discovery easier. As you can see, sometimes a simple design is more elegant than a complex one.
 ![initial prototype overview](/cla1.github.io/img/initial-overview.jpg){:height="100%" width="100%"}
+
+
 ![final prototype overview](/cla1.github.io/img/final-overview.JPG){:height="100%" width="100%"}
+
+
+
 
 
 
