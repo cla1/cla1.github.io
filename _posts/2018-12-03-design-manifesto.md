@@ -24,6 +24,8 @@ One of our first assignments involved a contextual inquiry and a reflection (con
 This is one aspect of teams that may seem too small or intuitive to deserve its own title. However, we did not actually delegate assignments that reflected our personal skills until way too late in our design process. Ironically, our team contract not only specified that we would delegate "based on skills or skills we want to develop," but it actually listed some of our personal talents. However, for some reason, we never actually divided up labor based on these talents. Honestly, I took the initiative to do a large part of the planning (this was actually one of my listed skills), so this may have been largely my own oversight in not recognizing my own groupmates' talents. However, I did eventually realize that Landon is extremely creative and fantastic at generating new ideas, and Kenneth is incredible at basically anything artistic-based, from storyboards to video prototypes. If I were to do a project like this again, recognizing individual talent is one aspect of a team that I would make sure to prioritize. 
 
 
+# Quality Comes Through Quantity
+
 
 
 
