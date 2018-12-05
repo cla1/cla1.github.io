@@ -11,7 +11,7 @@ This leads me to the work that I, and my groupmates, have accomplished over the 
 At the start of this project, me, Kenneth, and Landon were randomly put together to form a group. However, by the end of this semester, we managed to become a team. What's the distinction? A group is just a collection of people, but a team is a cohesive unit that cooperates to achieve a goal. As Katzenbach and Smith assert, "no group ever becomes a team until it can hold itself accountable as a team," and the importance of this was probably one of the most stunning realizations (Katzenbach and Smith, The Discipline of Teams). From this process, I learned two very important aspects of working in a team:
 
 
-### 1. Don't Assume Someone Else Will Take Care of it
+### 1. Be Unnecessarily Explicit 
 
 When this project began, I figured work would be divided and we would just do our parts independently, eventually combining everything into a single deliverable. Even though our team contract emphasized communication, this was mostly in regard to any problems that had to be resolved. In terms of deliverables, we vaguely came up with "equal division of work, but also flexibility" as our focus. However, it soon became apparent to me that "equal division of work" was not so automatic. 
 
