@@ -48,7 +48,7 @@ Even though there were many problems with our initial design and we had to make 
 
 ### 5. Sometimes Less _is_ More
 
-Through the many iterations of our paper prototype, we've realized that sometimes users do not want a lot of information. This is summarized by the simple and natural dialog heuristic where the goal is to present exactly the information the user needs at exactly the time and place it is needed. After conducting usability tests, we realized that an excess of information actually confuses the user, making it harder to find the information they are looking for. The images below show the transition from our initial paper prototype to our final, showing how we had to delete screens in order to make information discovery easier. As you can see, sometimes a simple design is more elegant than a complex one.
+Through the many iterations of our paper prototype, we've realized that sometimes users do not want a lot of information. This is summarized by the simple and natural dialog heuristic where the goal is to present exactly the information the user needs at exactly the time and place it is needed. After conducting usability tests, we realized that an excess of information actually confuses the user, making it harder to find the information they are looking for. The first image below shows our initial paper prototype, while the second image is our final. As you can see, we found that our users preferred fewer screens with descriptive information rather than many screens with vague information. This illustrates how sometiems a simple design is more elegant than a complex one.
 
 ![initial prototype overview](/cla1.github.io/img/initial-overview1.jpg){:height="100%" width="100%"}
 
