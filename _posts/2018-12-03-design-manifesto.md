@@ -39,7 +39,7 @@ In our initial proposal, our goal was to "use the [emotional] responses people h
 
 ### 4. Embrace Feedback
 
-The example above is just one case in which we had to make significant changes based off of the feedback we received. In that situation, we had to pivot our design tasks. However, throughout this process, we've also had to make many changes to our prototype interface. The table below specifies just _some_ of the changes we've implemented from our original prototype:
+The example above is just one case in which we had to make significant changes based off of the feedback we received. In that situation, we had to pivot our design tasks. However, throughout this process, we've also had to make many changes to our prototype interface. The table below specifies just _some_ of the changes we've implemented between the initial and final versions of our paper prototype:
 
 ![usability feedback table](/cla1.github.io/img/usability-feedback-table.png){:height="100%" width="100%"}
 
