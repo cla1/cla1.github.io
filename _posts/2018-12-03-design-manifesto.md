@@ -1,7 +1,9 @@
 # Introduction
 
 It perplexes me how we live in a society where computer programmers are creating the systems that are changing our world as we know it, but they aren't ever required to learn the basics of Human-Computer Interaction. This is not to say that HCI is necessary to successfully code functional software or that every computer programmer needs a complete mastery of the field. However, at least for me, even learning the basics of HCI has allowed me to view the software I write through a whole new perspective. Before this course, I didn't think HCI was necessary for programmers, especially since there's nothing that required me to take it. However, after taking the course, I've realized that we've learned invaluable techniques that not only give us tools to surpass design issues, but also provide us a deeper understanding of our users that we should always consider. What scares me the most about all of this is that I knew so little about this field that I didn't know I was missing anything.
- 
+
+
 This leads me to the work that I, and my groupmates, have accomplished over the last 3 months. During this semester we designed a mobile application that allows curators to both connect with and learn about the museum visitors that view their work. Even though it took us awhile to reach a seemingly simple design, we believe that our application could really make data useful so curators can better understand their audience. However, creating a good application would not have been possible without the methods we learned from UX design, so I want to share 5 of the most important things that were crucial through our journey.
+
 
 # Your Team is Everything
