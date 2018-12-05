@@ -1,9 +1,9 @@
 # Introduction
 
 It perplexes me how we live in a society where computer programmers are creating the systems that are changing our world as we know it, but they aren't ever required to learn the basics of Human-Computer Interaction. This is not to say that HCI is necessary to successfully code functional software or that every computer programmer needs a complete mastery of the field. However, at least for me, even learning the basics of HCI has allowed me to view the software I write through a whole new perspective. Before this course, I didn't think HCI was necessary for programmers, especially since there's nothing that required me to take it. However, after taking the course, I've realized that we've learned invaluable techniques that not only give us tools to surpass design issues, but also provide us a deeper understanding of our users that we should always consider. What scares me the most about all of this is that I knew so little about this field that I didn't know I was missing anything.
-
-
-This leads me to the work that I, and my groupmates, have accomplished over the last 3 months. During this semester we designed a mobile application that allows curators to both connect with and learn about the museum visitors that view their work. Even though it took us awhile to reach a seemingly simple design, we believe that our application could really make data useful so curators can better understand their audience. However, creating a good application would not have been possible without the methods we learned from UX design, so I want to share 5 of the most important things that were crucial through our journey.
+ 
+ 
+This leads me to the work that I, and my groupmates, have accomplished over the last 3 months. During this semester we designed a mobile application that allows curators to both connect with and learn about the museum visitors that view their work. Even though it took us awhile to reach a seemingly simple design, we believe that our application could really make data useful so curators can better understand their audience. However, creating a good application would not have been possible without the methods we learned from UX design, so I want to share 7 of the most important learning experiences through our journey.
 
 
 # Teamwork Makes the Dream Work
@@ -22,6 +22,9 @@ One of our first assignments involved a contextual inquiry and a reflection (con
 ### 2. Recognize Individual Talent
 
 This is one aspect of teams that may seem too small or intuitive to deserve its own title. However, we did not actually delegate assignments that reflected our personal skills until way too late in our design process. Ironically, our team contract not only specified that we would delegate "based on skills or skills we want to develop," but it actually listed some of our personal talents. However, for some reason, we never actually divided up labor based on these talents. Honestly, I took the initiative to do a large part of the planning (this was actually one of my listed skills), so this may have been largely my own oversight in not recognizing my own groupmates' talents. However, I did eventually realize that Landon is extremely creative and fantastic at generating new ideas, and Kenneth is incredible at basically anything artistic-based, from storyboards to video prototypes. If I were to do a project like this again, recognizing individual talent is one aspect of a team that I would make sure to prioritize. 
+
+
+
 
 
 
