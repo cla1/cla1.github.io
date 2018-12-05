@@ -8,7 +8,7 @@ This leads me to the work that I, and my groupmates, have accomplished over the 
 
 # Teamwork Makes the Dream Work
 
-At the start of this project, me, Kenneth, and Landon were randomly put together to form a group. However, by the end of this semester, we managed to become a team. What's the distinction? A group is just a collection of people, but a team is a cohesive unit that cooperates to achieve a goal. As Katzenbach and Smith assert, "no group ever becomes a team until it can hold itself accountable as a team," and the importance of this was probably one of the most stunning realizations (Katzenbach and Smith, The Discipline of Teams). From this process, I learned two very important aspects of working in a team:
+At the start of this project, me, Kenneth, and Landon were randomly put together to form a group. However, by the end of this semester, we managed to become a team. What's the distinction? A group is just a collection of people, but a team is a cohesive unit that cooperates to achieve a goal. As Katzenbach and Smith assert, "no group ever becomes a team until it can hold itself accountable as a team," and the importance of this was probably one of my most stunning realizations (Katzenbach and Smith, The Discipline of Teams). From this process, I learned two very important aspects of working in a team:
 
 
 ### 1. Be Unnecessarily Explicit 
