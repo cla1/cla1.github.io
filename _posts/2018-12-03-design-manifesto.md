@@ -41,11 +41,11 @@ In our initial proposal, our goal was to "use the [emotional] responses people h
 
 The example above is just one case in which we had to make significant changes based off of the feedback we received. In that situation, we had to pivot our design tasks. However, throughout this process, we've also had to make many changes to our prototype interface. The table below specifies just _some_ of the changes we've implemented from our original prototype:
 ![usability feedback table](/cla1.github.io/img/usability-feedback-table.png){:height="100%" width="100%"}
-Even though we've made a lot of changes, both big and small, the main takeaway here is that you should embrace feedback. You're going to make mistakes when creating a design, whether that's choosing the wrong color scheme, or forgetting to include some essential functionality. However, feedback directs your attention to these errors, allowing you to refine your design over multiple iterations. This is where you achieve a quality design through a large quantity of tests. 
+Even though there were many problems with our initial design and we had to make many changes, the main takeaway here is that you should embrace feedback. You're going to make mistakes when creating a design, whether that's choosing the wrong color scheme, or forgetting to include some essential functionality. However, feedback directs your attention to these errors, allowing you to refine your design over multiple iterations. This is where you achieve a quality design through a large quantity of tests. 
 
 
 ### 5. Sometimes Less _is_ More
- 
+
 Through the many iterations of our project prototype, we've realized that sometimes users do not want a lot of information. This is summarized by the simple and natural dialog heuristic where the goal is to present exactly the information the user needs at exactly the time and place it is needed. After conducting usability tests, we realized that an excess of information actually confuses the user, making it harder to find the information they are looking for. The images below show the transition from our initial paper prototype to our final, showing how we had to delete screens in order to make information discovery easier. As you can see, sometimes a simple design is more elegant than a complex one.
 ![initial prototype overview](/cla1.github.io/img/initial-overview.jpg){:height="100%" width="100%"}
 ![final prototype overview](/cla1.github.io/img/final-overview.JPG){:height="100%" width="100%"}
