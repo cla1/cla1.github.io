@@ -26,6 +26,29 @@ This is one aspect of teams that may seem too small or intuitive to deserve its 
 
 # Quality Comes Through Quantity
 
+This is one aspect of design that completely confused me until I actually experienced the process of doing it. Why would iterating over a bunch of mediocre prototypes be more effective than strategically planning and implementing a single "perfect" prototype? This leads me to a few more important points my group learned the hard way.
+ 
+ 
+### 3. You Are Not Your User
+
+As a designer, your goal is to create something that your users need, but this is much easier said than done. One clear takeaway we learned was that you are not your user. This means your design should not be based off your own needs. However, this is only the beginning of the story. To create a truly useful design, you should not create what _you_ think your users need since there can be misperceptions of what the user would find helpful. Unfortunately, you should not even create what your users _think_ they need, since even they may not know what they want to use. You have to learn and understand your users, and then use this information to create something they _actually_ need. 
+
+
+In our initial proposal, our goal was to "use the [emotional] responses people have to artwork in order to add depth to museum data files…[by not only showing] the "texture and personality" of a collection, [but also] the way exhibits make people feel." Even though adding emotional information seemed like a cool idea, our first contextual inquiry with a curator indicated otherwise: "…audience emotion is rarely a criterion for choosing a piece of art since it is so subjective that it is too difficult to use as a measure of art quality." This was a little disheartening as we realized our design idea wouldn't actually help curators, showing how our lack of understanding of our users contributed to a false sense of what they needed. However, our last contextual inquiry was with another curator who said he worried "that people who are confused or frustrated aren’t expressing this." He voiced his concerns regarding his lack of information about his audiences, which allowed us to pivot our design, giving us hope that we could actually create something useful. 
+
+
+### 4. Embrace Feedback
+
+The example above is just one case in which we had to make significant changes based off of the feedback we received. In that situation, we had to pivot our design tasks. However, throughout this process, we've also had to make many changes to our prototype interface. The table below specifies just _some_ of the changes we've implemented from our original prototype:
+![usability feedback table](/cla1.github.io/img/usability-feedback-table.png){:height="100%" width="100%"}
+Even though we've made a lot of changes, both big and small, the main takeaway here is that you should embrace feedback. You're going to make mistakes when creating a design, whether that's choosing the wrong color scheme, or forgetting to include some essential functionality. However, feedback directs your attention to these errors, allowing you to refine your design over multiple iterations. This is where you achieve a quality design through a large quantity of tests. 
+
+
+### 5. Sometimes Less _is_ More
+ 
+Through the many iterations of our project prototype, we've realized that sometimes users do not want a lot of information. This is summarized by the simple and natural dialog heuristic where the goal is to present exactly the information the user needs at exactly the time and place it is needed. After conducting usability tests, we realized that an excess of information actually confuses the user, making it harder to find the information they are looking for. The images below show the transition from our initial paper prototype to our final, showing how we had to delete screens in order to make information discovery easier. As you can see, sometimes a simple design is more elegant than a complex one.
+![initial prototype overview](/cla1.github.io/img/initial-overview.jpg){:height="100%" width="100%"}
+![final prototype overview](/cla1.github.io/img/final-overview.JPG){:height="100%" width="100%"}
 
 
 
